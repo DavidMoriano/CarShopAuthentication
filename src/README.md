@@ -2,6 +2,7 @@
     - Tener el eclipse version jdk 21
 ### Eclipse 
 Es necesario tener una carpeta lib, en la ruta "DiscoDuro\Java\lib\"
+#### Paquetes utilizados
     - Jbcrypt 0.4 (https://mvnrepository.com/artifact/org.mindrot/jbcrypt/0.4) 
     - MysqlConector 9.3.0 (https://mvnrepository.com/artifact/com.mysql/mysql-connector-j/9.3.0)
 Además se dispone de un archivo llamado `.envDefault` que es necesario configurar antes de iniciar el programa
