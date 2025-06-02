@@ -1,6 +1,6 @@
 use pruebaBaseDatos;
 
-insert into users (uuid, name, password) values ('7a50f699-1672-4d0b-9490-37b8e3e87c96', 'manu', '$10$PFVjczQvUbfeSL4Xh4/tPO9gcQ14JA/weRKcezMZz.eE79wuQE4Ue');
+insert into users (uuid, name, password) values ('7a50f699-1672-4d0b-9490-37b8e3e87c96', 'manu', '$2a$10$pDAqjIlxZQuwVGYlAgr1/e/PRvXQsZF/s.hIhMkaZNlYWrlgbKdj6');
 insert into users (uuid, name, password) values ('ae328d76-0163-4042-a6fe-f12bb68d26ee', 'alberto', '$2a$10$/A4P02fBi6fpt7Nl2Dq/4ODsuaY7fyAfqd.Ma3iCe.A6yDg6y.hBu');
 insert into users (uuid, name, password) values ('db14fbd8-7120-4863-8ba9-990d8c124b55', 'paco', '$2a$10$fRhWrjotzyS4xArGEhkAieSDNNuR685/9Umi5juzrIXTabmOFeyDy');
 

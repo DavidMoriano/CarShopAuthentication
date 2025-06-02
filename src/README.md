@@ -12,7 +12,7 @@
   - Jbcrypt 0.4 (https://mvnrepository.com/artifact/org.mindrot/jbcrypt/0.4) 
   - MysqlConector 9.3.0 (https://mvnrepository.com/artifact/com.mysql/mysql-connector-j/9.3.0)
 
-- Además se dispone de un archivo llamado `.envDefault` que es necesario configurar antes de iniciar el programa
+- Además se dispone de un archivo llamado `.envDefault` que es necesario configurar y renombrar a `.env` antes de iniciar el programa
 con nuestros valores correspondientes. Sirve para conectar la base de datos a nuestro programa.
 
 ### sql
